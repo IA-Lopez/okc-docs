@@ -1,0 +1,10 @@
+project = 'read the docs takover '
+copyright = '2025, IA Lopez'
+author = 'ks_karem7'
+version = '1.0'
+release = '1.0'
+extensions = []
+templates_path = ['_templates']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+html_theme = 'readthedocs'
+html_static_path = ['_static']
