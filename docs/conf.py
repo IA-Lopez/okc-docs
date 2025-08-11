@@ -1,5 +1,5 @@
 project = 'read the docs takover '
-copyright = '2025, IA Lopez'
+copyright = '2025,ks_karem7'
 author = 'ks_karem7'
 version = '1.0'
 release = '1.0'
