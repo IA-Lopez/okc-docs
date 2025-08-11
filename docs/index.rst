@@ -7,4 +7,4 @@ This is my documentation site, set up like okc-docs.readthedocs.io.
    :maxdepth: 2
 
    intro
-   draft/OIP-3  # This creates /en/latest/draft/OIP-3.html – 
+   draft/OIP-3
